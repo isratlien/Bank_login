@@ -34,7 +34,7 @@ jobs:
         subject: Automated Test Report
         body: |
           Hi,
-          Please find attached the automated test report.
+          Please find attached the automated test reports.
           
 #          file://./build/reports/feature.html
         attachments: ./name: Banklogin
